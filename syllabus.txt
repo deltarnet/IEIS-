@@ -12,4 +12,4 @@ Syllabus
 	      Functions
 	      Arrays
 	      Objects
-
+8.      Introduction to Git and Github
