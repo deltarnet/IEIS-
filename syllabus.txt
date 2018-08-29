@@ -1,0 +1,15 @@
+FRONT-END WEB DEVELOPER TRAINING
+Syllabus 
+1.	Course Basics
+2.	Introduction to Front End
+3.	Introduction to HTML
+4.	Intermediate HTML
+5.	Introduction to CSS
+6.	Advanced CSS
+7.	JavaScript
+	      Basics
+	      Control flow 
+	      Functions
+	      Arrays
+	      Objects
+
